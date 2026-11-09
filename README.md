@@ -1,2 +1,17 @@
-# mylent-automation
-Automation scripts for Mylent machinery foreign trade
+# 迈伦特自动化
+> 主体：宁津迈伦特机械科技有限公司
+> 主营：输送机、304不锈钢网带、链板、链轮等输送配件，外贸B端获客
+
+## 当前任务（第一版）
+短视频自动生成工具（对接 ChatCut）
+输入：产品名称、投放平台、目标市场、语种
+输出：适配ChatCut的全套视频任务包
+包含：视频标题、口播文案、分段字幕、封面文案、广告描述、话题标签
+交付：直接送入ChatCut，自动渲染成片；同时全部资料存档到仓库
+支持：抖音中文 / TK、Facebook英文 / 印尼语
+
+## 开发说明
+- 代码仓库：lankonagri-create/mylent-automation
+- 开发模式：新建分支开发，测试后合并进 main
+- 语言：Python
+- 依赖：ChatCut
